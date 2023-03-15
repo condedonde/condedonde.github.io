@@ -1,0 +1,12 @@
+figure{
+    display: inline-block;
+    margin: 6px;
+    padding: 4px;
+    width: 30%;
+}
+div{
+    text-align: center;
+    color: cornflowerblue;
+    font-family:fantasy;
+    font-size: 18px;
+}

@@ -1,0 +1,46 @@
+ul{
+    list-style-type: none;
+    text-align: center;
+}
+nav{
+    padding: 2px 7px 2px 7px;
+    text-decoration: none;
+    text-align: center;
+}
+li{
+    margin-right: 10px;
+    padding: 4px 4px;
+    font-size: 1.5em;
+    text-align: center;
+    position: relative;
+    display: inline;
+    border: double;
+    background-color:#FFFF00;
+}
+#bacho{
+    display: inline-block;
+    width: 80px;
+    float: right;
+    padding-top:30px;
+}
+#Qroo{
+    display: inline-block;
+    width: 10%;
+    float: left;
+    padding-top: 30px;
+}
+div{
+   display: inline-block;
+   width: 60%;
+   text-align: center;
+   padding-top: 30px;
+    color: cornflowerblue;
+}
+footer{
+    border: double;
+    text-align: center;
+    font-size: 13px;
+}
+html{
+    background-color:aliceblue;
+}

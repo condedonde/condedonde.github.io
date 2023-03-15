@@ -1,0 +1,19 @@
+#cole{
+    text-align: center;
+    color: cornflowerblue;
+}
+#coB{
+    display: inline-block;
+    float:right;
+}
+#salon{
+    display: inline-block;
+    float: right;
+}
+#biblio2{
+    display: inline-block;
+    float: right;
+}
+.texto{
+    text-align: center;
+}

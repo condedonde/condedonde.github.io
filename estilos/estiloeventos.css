@@ -1,0 +1,13 @@
+figure{
+    display: inline-block;
+    margin: 6px;
+    padding: 4px;
+    width: 30%;
+}
+h1{
+    text-align: center;
+    color: cornflowerblue;
+}
+p{
+    font-size: 20px;
+}
